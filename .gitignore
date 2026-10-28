@@ -30,3 +30,10 @@ Thumbs.db
 .idea/
 ~$*
 
+# Presentations & Pitch Decks
+*.pptx
+presentation/
+presentation_assets/
+generate_presentation.py
+
+
