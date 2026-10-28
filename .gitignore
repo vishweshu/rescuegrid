@@ -23,8 +23,10 @@ yarn-error.log*
 *.db-wal
 rescuegrid.db
 
-# OS / Editor
+# OS / Editor / Office
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+~$*
+
