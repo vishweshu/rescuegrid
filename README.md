@@ -1,6 +1,6 @@
-# 🛡️ RescueGrid AI
+# 🛡️ RescueGrid
 ### Intelligent Disaster Search & Rescue Prioritization System
-**Built for IEEE MOVE-A-THON 2026 • First 72 Hours Disaster Response**
+**First 72 Hours Disaster Response • Offline-First Decision Support**
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688.svg)](https://fastapi.tiangolo.com/)
